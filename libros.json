@@ -1,0 +1,19 @@
+{
+    "libros": [
+        {
+            "isbn": "147855555",
+            "titulo": "I, Robot",
+            "autor": "Isaac Asimov"
+        },
+        {
+            "isbn": "445454888",
+            "titulo": "Aztec",
+            "autor": "Gary Jennings"
+        },
+        {
+            "isbn": "151515484848484",
+            "titulo": "The Awakening",
+            "autor": "Kelley Armstrong"
+        }
+    ]
+}
